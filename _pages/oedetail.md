@@ -5,21 +5,18 @@ title:  "A look at OpenEyes"
 ---
 
 <!-- Page Content -->
-<section id="feature-overview" style="background-color:#fff; padding:9em;">
+<section id="feature-overview" style="background-color:#fff; padding-top:8em;">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 text-justify">
-            <center><h2 class="section-heading">OpenEyes Features</h2></center>
+          <div class="col-lg-12">
+             <center><h2 class="section-heading">OpenEyes Features</h2></center>
             <hr class="my-4">
                <p class="mb-0">
                   Introduction to current version of OpenEyes and overview of full feature set. James Morgan to complete. Select the feature you would like to know more about below.</p><br />
                   <!-- Page Content -->
 <div class="container">
-
-  <!-- Page Heading -->
-
   <div class="row text-center">
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-offset-0 col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <a href="#work-lists"><div class="card-body">
           <h4 class="card-title">
@@ -28,7 +25,7 @@ title:  "A look at OpenEyes"
         </div></a>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -37,7 +34,7 @@ title:  "A look at OpenEyes"
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -46,7 +43,7 @@ title:  "A look at OpenEyes"
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -55,7 +52,7 @@ title:  "A look at OpenEyes"
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -64,7 +61,7 @@ title:  "A look at OpenEyes"
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -73,7 +70,7 @@ title:  "A look at OpenEyes"
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -82,7 +79,7 @@ title:  "A look at OpenEyes"
          </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+    <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -91,7 +88,7 @@ title:  "A look at OpenEyes"
          </div>
       </div>
     </div>
-   <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+  <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -100,7 +97,7 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
-   <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+   <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -109,7 +106,7 @@ title:  "A look at OpenEyes"
          </div>
       </div>
     </div>
-       <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+       <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -118,7 +115,7 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
-         <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+         <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
@@ -138,11 +135,11 @@ title:  "A look at OpenEyes"
     </div>-->
   </div>
   <!-- /.row -->
-
+</div>
 
 
 </div>
-</div>
+
         </div>   
       </div>
     </section>
