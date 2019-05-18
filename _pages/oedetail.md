@@ -12,7 +12,7 @@ title:  "A look at OpenEyes"
              <center><h2 class="section-heading">OpenEyes Features</h2></center>
             <hr class="my-4">
                <p class="mb-0">
-                  Introduction to current version of OpenEyes and overview of full feature set. James Morgan to complete. Select the feature you would like to know more about below.</p><br />
+                  OpenEyes V3 is fast and fun to use. We can only highlight some of the more important features in this section. To access a test version and try out these features please go to the <a href="#contact">contact section</a> this site.</p><br />
                   <!-- Page Content -->
 <div class="container">
   <div class="row text-center">
@@ -20,7 +20,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a href="#work-lists"><div class="card-body">
           <h4 class="card-title">
-            <a href="#work-lists" class="js-scroll-trigger feature">Work Lists</a>
+            <a href="#work-lists" class="feature">Work Lists</a>
           </h4>
         </div></a>
       </div>
@@ -29,7 +29,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#patient-overview" class="js-scroll-trigger feature">Patient Overview</a>
+            <a href="#patient-overview" class="feature">Patient Overview</a>
           </h4>
         </div>
       </div>
@@ -38,7 +38,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#examination-event" class="js-scroll-trigger feature">Examination Event</a>
+            <a href="#examination-event" class="feature">Examination Event</a>
           </h4>
         </div>
       </div>
@@ -47,7 +47,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#eyedraw" class="js-scroll-trigger feature">EyeDraw</a>
+            <a href="#eyedraw" class="feature">EyeDraw</a>
           </h4>
         </div>
       </div>
@@ -56,7 +56,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#popups" class="js-scroll-trigger feature">Popups</a>
+            <a href="#popups" class="feature">Popups</a>
           </h4>
         </div>
       </div>
@@ -65,7 +65,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#operation-notes" class="js-scroll-trigger feature">Operation Notes</a>
+            <a href="#operation-notes" class="feature">Operation Notes</a>
           </h4>
         </div>
       </div>
@@ -74,7 +74,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#prescribing" class="js-scroll-trigger feature">Prescribing</a>
+            <a href="#prescribing" class="feature">Prescribing</a>
           </h4>
          </div>
       </div>
@@ -83,7 +83,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#correspondence" class="js-scroll-trigger feature">Correspondence</a>
+            <a href="#correspondence" class="feature">Correspondence</a>
           </h4>
          </div>
       </div>
@@ -92,7 +92,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#hotlists" class="js-scroll-trigger feature">Hot Lists</a>
+            <a href="#hotlists" class="feature">Hot Lists</a>
           </h4>
          </div>
       </div>
@@ -101,7 +101,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#audit" class="js-scroll-trigger feature">Analytics-Audit</a>
+            <a href="#audit" class="feature">Analytics-Audit</a>
           </h4>
          </div>
       </div>
@@ -110,7 +110,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#lightning-viewer" class="js-scroll-trigger feature">Lightning Viewer</a>
+            <a href="#lightning-viewer" class="feature">Lightning Viewer</a>
           </h4>
          </div>
       </div>
@@ -119,7 +119,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#oescape" class="js-scroll-trigger feature">OEScape</a>
+            <a href="#oescape" class="feature">OEScape</a>
           </h4>
          </div>
       </div>
@@ -128,7 +128,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#analytics-rtt" class="js-scroll-trigger feature">Analytics RTT</a>
+            <a href="#analytics-rtt" class="feature">Analytics RTT</a>
           </h4>
          </div>
       </div>
@@ -137,11 +137,31 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#colour-themes" class="js-scroll-trigger feature">Colour Themes</a>
+            <a href="#whiteboards" class="feature">Whiteboards</a>
           </h4>
          </div>
       </div>
       </div>
+      <div class="col-sm-3" style="padding-bottom: 20px">
+      <div class="card h-100">
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#virtual-clinic" class="feature">Virtual Clinic</a>
+          </h4>
+         </div>
+      </div>
+      </div>
+
+      <div class="col-sm-3" style="padding-bottom: 20px">
+      <div class="card h-100">
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#colour-themes" class="feature">Colour Themes</a>
+          </h4>
+         </div>
+      </div>
+      </div>
+
     <!--<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
       <div class="card h-100">
         <div class="card-body">
@@ -580,6 +600,68 @@ title:  "A look at OpenEyes"
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-colour-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-colour-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">Or as grey mode. The choice is yours and will be fixed to your user settings. The change is just a click and you can flip between themes during an examination.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- /.container -->
+
+<!-- 15. Whiteboards Container --> 
+<section id="whiteboards" style="background-color:#a9b9b2" >
+<div class="container">
+
+  
+  <center><h2 class="mb-4">Whiteboards</h2>
+       <hr class="my-4"></center>
+
+
+  <div class="row">
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/l-whiteboards-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-whiteboards-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">OpenEyes now supports real time analysis of patient waiting times - either as new of follow up patients. This allows you to pick up those patient who are lost to follow up or past their appointment dates.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/r-whiteboards-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-whiteboards-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">You can click on each bar in the histogram to see the underlying patients and review their clinical status. If you click on any of the patient in the drill down - you can then see their overview summary and clinical history. Super fast.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- /.container -->
+
+<!-- 16. Virtual Clinic Containers --> 
+<section id="virtual-clinic" style="background-color:#fff" >
+<div class="container">
+
+  
+  <center><h2 class="mb-4">Virual Clinic<br /></h2>
+       <hr class="my-4"></center>
+
+
+  <div class="row">
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/l-virtual-clinic-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-virtual-clinic-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">Using an EMR is quite different from entering the audit data a few hours a week. We realised that the view has to be comfortable and match the light levels in the clinic. That is why we have change the colour palette for OE3- the dark mode is commonly used in environments similar to eye clinics and we have realised that there is a good reason for this. However we also know that this is novel if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment OE3 provide a them choice- as standard dark mode.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/r-virtual-clinic-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-virtual-clinic-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">Or as grey mode. The choice is yours and will be fixed to your user settings. The change is just a click and you can flip between themes during an examination.</p>
         </div>
