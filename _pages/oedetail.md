@@ -92,7 +92,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#hot-lists" class="js-scroll-trigger feature">Hot Lists</a>
+            <a href="#hotlists" class="js-scroll-trigger feature">Hot Lists</a>
           </h4>
          </div>
       </div>
@@ -392,7 +392,7 @@ title:  "A look at OpenEyes"
 <!-- /.container -->
 
 <!-- 9. Hot Lists Container --> 
-<section id="hot-lists" style="background-color:#a9b9b2;" >
+<section id="hotlists" style="background-color:#a9b9b2;" >
 <div class="container">
 
   
