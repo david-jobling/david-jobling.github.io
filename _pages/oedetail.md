@@ -497,23 +497,17 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-oescape-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-oescape-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">OpenEyes now comes with a summary time related view for a patient called OEscape. This will plot subspecialty relevant data over time for a selected patient. For glaucoma this would, for example be visual acuity and IOP. For Medical retina this would be visual acuity and central retinal thickness- with an indication of when intravitreal injections have been made. These views are scaleable to match the monitor size.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-oescape-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-oescape-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">The OEscape plots can be linked to the display of imaging or visual field data. For example in medical retina- as the cursor is moved along the visual acuity/ retinal thickness timeline, the OCT scan that matches as selected time point is displayed.</p>
         </div>
       </div>
     </div>
