@@ -404,7 +404,7 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-       <a class="portfolio-box" href="/img/features/fullsize/l-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-hotlists-lg.jpg" alt=""></a>
+       <a class="portfolio-box" href="/img/features/fullsize/l-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-hotlist-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">In a busy clinic it is all too easy to lose track of patients- particularly when patient are being dilated and sent for further investigations. The hotlist address this issue by keeping a list that can be viewed at any time of patient who are  still under examination or having a procedure. The list is user specific and allows you to switch rapidly between patients.</p>
         </div>
@@ -412,7 +412,7 @@ title:  "A look at OpenEyes"
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/r-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-hotlists-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-hotlist-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">You can add notes to the hotlist to indicate where a patient is in the clinic or if they have special requirements. A patient search option is also present at the top of the hotlist so that other patients can be found and viewed.</p>
         </div>
