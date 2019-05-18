@@ -396,7 +396,7 @@ title:  "A look at OpenEyes"
 <div class="container">
 
   
-  <center><h2 class="mb-4">Hot Lists<br /></h2>
+  <center><h2 class="mb-4">The Hotlist<br /></h2>
        <hr class="my-4"></center>
                   <p class="mb-0">CONTENT</p><br />
 
@@ -404,23 +404,17 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+       <a class="portfolio-box" href="/img/features/fullsize/l-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-hotlists-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">In a busy clinic it is all too easy to lose track of patients- particularly when patient are being dilated and sent for further investigations. The hotlist address this issue by keeping a list that can be viewed at any time of patient who are  still under examination or having a procedure. The list is user specific and allows you to switch rapidly between patients.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-hotlists-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">You can add notes to the hotlist to indicate where a patient is in the clinic or if they have special requirements. A patient search option is also present at the top of the hotlist so that other patients can be found and viewed.</p>
         </div>
       </div>
     </div>
@@ -429,36 +423,28 @@ title:  "A look at OpenEyes"
 </section>
 <!-- /.container -->
 
-<!-- 10. Hot Lists Container --> 
+<!-- 10. Analytics-Audit Container --> 
 <section id="audit" style="background-color:#fff;" >
 <div class="container">
 
   
-  <center><h2 class="mb-4">Audit<br /></h2>
+  <center><h2 class="mb-4">Analytics-Audit<br /></h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
-
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-audit-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                  <p class="card-text">OpenEyes is built to provide real time data so audit is not a term that is used with modern EMR platform. We really need to know what is happening to our patients and our services in real time. OpenEyes comes with an analytics package to support data collection and display on large number of patients. OpenEyes fully support the NOD audit and provides compliant analysis of risks and complications.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-audit-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">For the NOD analysis  you can also see your complication provide and drill down on patients in any particular category. OpenEyes will also indicate the level of NOD audit completion. Data can then be submitted to NOD directly from OpenEyes.</p>
         </div>
       </div>
     </div>
