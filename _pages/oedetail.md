@@ -592,7 +592,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-colour-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-colour-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">Using an EMR is quite different from entering the audit data a few hours a week. We realised that the view has to be comfortable and match the light levels in the clinic. That is why we have change the colour palette for OE3- the dark mode is commonly used in environments similar to eye clinics and we have realised that there is a good reason for this. However we also know that this is novel if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment OE3 provide a them choice- as standard dark mode.</p>
+          <p class="card-text">Using an EPR is quite different from entering audit data a few hours a week. We realised that the view has to be comfortable and match the light levels in the clinic. That is why we have changed the colour palette for OE3 by adopting a darker overall appearance  similar to the dark mode that is better matched to the ambient light levels in most eye clinics. However we also know that this is novel if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment, OE3 provide a theme choice- as standard dark mode.</p>
         </div>
       </div>
     </div>

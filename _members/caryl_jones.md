@@ -1,5 +1,5 @@
 ---
 name: Carole Jones
 photo: '/img/caryl_jones.jpg'
-title: Ophthal HII Lead
+title: Consultant Ophthalmologist, Maidstone and Tunbridge Wells NHS Trust
 ---
