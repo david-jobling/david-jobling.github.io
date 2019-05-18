@@ -101,7 +101,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#audit" class="js-scroll-trigger feature">Audit &amp Analytics</a>
+            <a href="#audit" class="js-scroll-trigger feature">Analytics-Audit</a>
           </h4>
          </div>
       </div>
