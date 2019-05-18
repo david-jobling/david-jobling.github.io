@@ -621,7 +621,7 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/l-whiteboards-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-whiteboards-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-whiteboard-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-whiteboard-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">OpenEyes will display key data for a selected operation on a whiteboard- this is usually a large digital display in the operating theatre that can be seen by all staff. It supports the activity around the WHO checks and ensures that everyone knows the case, side, procedure and for cataract surgery the lens type and power. It also displays systemic and ocular risk factors relevant to the case.</p>
         </div>
@@ -629,7 +629,7 @@ title:  "A look at OpenEyes"
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/r-whiteboards-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-whiteboards-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-whiteboard-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-whiteboard-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">The whiteboard can be toggled to display underlying data- the biometry data is pulled from the biometry record but you can also see the standard output from the device as required. As biometric formulas and their reports get more complex- particularly for the management of post LASIK patients this is a popular safety feature.</p>
         </div>
