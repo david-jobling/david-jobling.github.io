@@ -366,23 +366,17 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-correspondence-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-correspondence-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">OpenEyes has a complete correspondence package that will pull information from a recent event and auto-populate templated letter. You can customise the templates for your clinic or service. The latter format is PDF allowing easy storage and viewing in other hospital based archives. </p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-correspondence-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-correspondence-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">The letters can be saved in draft or final form and sent by paper or electronic to primary care providers with a copy also provided for the patient. OpenEyes allows letters to be tagged to events as part of a discharge summary.</p>
         </div>
       </div>
     </div>
