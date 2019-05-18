@@ -155,7 +155,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#virtual-clinic" class="feature">Virtual Clinic</a>
+            <a href="#virtual-clinic" class="feature">Virtual Clinics</a>
           </h4>
          </div>
       </div>
@@ -466,7 +466,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-audit-lg.jpg" alt=""></a>
         <div class="card-body">
-                  <p class="card-text">OpenEyes is built to provide real time data so audit is not a term that is used with modern EMR platform. We really need to know what is happening to our patients and our services in real time. OpenEyes comes with an analytics package to support data collection and display on large number of patients. OpenEyes fully support the NOD audit and provides compliant analysis of risks and complications.</p>
+                  <p class="card-text">OpenEyes is built to provide real time data-audit is not a term that is commonly  used with modern EMR platforms to monitor day to day activity. We really need to know what is happening to our patients and our services in real time. OpenEyes comes with an analytics package to support data collection and display on large numbers of patients. OpenEyes fully support the NOD audit and generates a  NOD compliant analysis of risks and complications associated with cataract surgery.</p>
         </div>
       </div>
     </div>
@@ -498,7 +498,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-lightning-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-lightning-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes support the viewing of documents at video refresh rates using the Lightning viewer. This allows you to view a stack of OCT images as fast as you might flick through a stack of cards. The lightning viewer supports this feature for all documents in OpenEyes. Any document in PDF format can be viewed in this way.</p>
+          <p class="card-text">OpenEyes supports the viewing of documents at video refresh rates using the Lightning viewer. This allows you to view a stack of OCT images as fast as you might flick through a stack of cards. The lightning viewer supports this feature for all documents in OpenEyes. Any document in PDF format can be viewed in this way.</p>
         </div>
       </div>
     </div>
@@ -506,7 +506,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-lightning-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-lightning-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">For the NOD analysis  you can also see your complication provide and drill down on patients in any particular category. OpenEyes will also indicate the level of NOD audit completion. Data can then be submitted to NOD directly from OpenEyes.</p>
+          <p class="card-text">You can also review all previous examinations- again at video refresh rates.</p>
         </div>
       </div>
     </div>
@@ -521,7 +521,7 @@ title:  "A look at OpenEyes"
 <div class="container">
 
   
-  <center><h2 class="mb-4">Dashboard<br /><small>OEScape</small></h2>
+  <center><h2 class="mb-4">OEScape<br /><small>Summary Board</small></h2>
        <hr class="my-4"></center>
 
 
@@ -623,7 +623,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-whiteboards-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-whiteboards-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes now supports real time analysis of patient waiting times - either as new of follow up patients. This allows you to pick up those patient who are lost to follow up or past their appointment dates.</p>
+          <p class="card-text">OpenEyes will display key data for a selected operation on a whiteboard- this is usually a large digital display in the operating theatre that can be seen by all staff. It supports the activity around the WHO checks and ensures that everyone knows the case, side, procedure and for cataract surgery the lens type and power. It also displays systemic and ocular risk factors relevant to the case.</p>
         </div>
       </div>
     </div>
@@ -631,7 +631,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-whiteboards-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-whiteboards-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">You can click on each bar in the histogram to see the underlying patients and review their clinical status. If you click on any of the patient in the drill down - you can then see their overview summary and clinical history. Super fast.</p>
+          <p class="card-text">The whiteboard can be toggled to display underlying data- the biometry data is pulled from the biometry record but you can also see the standard output from the device as required. As biometric formulas and their reports get more complex- particularly for the management of post LASIK patients this is a popular safety feature.</p>
         </div>
       </div>
     </div>
@@ -645,24 +645,24 @@ title:  "A look at OpenEyes"
 <div class="container">
 
   
-  <center><h2 class="mb-4">Virual Clinic<br /></h2>
+  <center><h2 class="mb-4">Virual Clinics<br /></h2>
        <hr class="my-4"></center>
 
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/l-virtual-clinic-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-virtual-clinic-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-virtual-clinics-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-virtual-clinics-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">Using an EMR is quite different from entering the audit data a few hours a week. We realised that the view has to be comfortable and match the light levels in the clinic. That is why we have change the colour palette for OE3- the dark mode is commonly used in environments similar to eye clinics and we have realised that there is a good reason for this. However we also know that this is novel if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment OE3 provide a them choice- as standard dark mode.</p>
+          <p class="card-text">Virtual review is a key function supported by OpenEyes. it has a rich set of tools to create virtual review work list and annotate comments. You can customise your check lists and automate prescriptions and correspondence. In the work list view you can see the steps in the review process and even undo steps if further review is needed.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/r-virtual-clinic-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-virtual-clinic-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-virtual-clinics-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-virtual-clinics-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">Or as grey mode. The choice is yours and will be fixed to your user settings. The change is just a click and you can flip between themes during an examination.</p>
+          <p class="card-text">OpenEyes provides a virtual review tool palette that sits above the examination event and can be used to capture review comments, create correspondence and prescriptions and formulate a management plan. A floating scratch pad allows on the fly notes to be taken that can be pasted in the virtual review commentary</p>
         </div>
       </div>
     </div>
