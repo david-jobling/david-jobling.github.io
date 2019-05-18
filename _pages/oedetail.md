@@ -161,7 +161,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-worklists-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-worklists-lg.jpg" alt=""></a>
         <div class="card-body">
-           <p class="card-text">When you first log into OpenEyes you will see a list of messages from other clinicians. Messaging is a popular feature in open eyes allowing communication about a single patient with the comments stored in the patient record. It works like email but is secure and linked to the patient history.</p>
+           <p class="card-text">When you first log into OpenEyes you will see a list of messages from other clinicians. Messaging is a popular feature in OpenEyes allowing communication about a single patient with the comments stored in the patient record. It works like email but is secure and linked to the patient history.</p>
         </div>
       </div>
     </div>
@@ -169,7 +169,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-worklists-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-worklists-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes will important clinic worklists from your PAS system. This allows direct patient selection and allows you to see when a patient has arrived in clinic</p>
+          <p class="card-text">OpenEyes will import clinic work lists from your PAS system. This allows direct patient selection and shows a patient has arrived in clinic. </p>
         </div>
       </div>
     </div>
@@ -190,7 +190,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-patientoverview-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-patientoverview-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">When a patient is selected from a worklist or patient search- the first view in the patient overview. This summarises medications, past treatments, diagnoses and management plans- all in one place.</p>
+          <p class="card-text">When a patient is selected from a work list or patient search- you will first see the  patient overview which summarises medications, past treatments, diagnoses, management plans and appointments. Everything in one place - instantly.</p>
         </div>
       </div>
     </div>
@@ -241,14 +241,11 @@ title:  "A look at OpenEyes"
 <section id="eyedraw" style="background-color:#fff">
 <div class="container">
  <center><h2 class="mb-4">EyeDraw<br /></h2>
-       <hr class="my-4"></center>
-                  <p class="mb-0">The Eyedraw tools are a key feature of OpenEyes. An example of the anterior segment tool is shown below which allows the recording of cataract state. These descriptions are stored as SNOMED coded items which can be searched in the OE database.
-                  </p><br />
-  
+       <hr class="my-4"></center>  
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/l-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-eyedraw-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-eyedraw-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">OpenEyes provides a rich graphic set of tools (Eyedraw) to document the appearance of the eye. These serve as visual metaphors for the eye examination.  The drawing objects are called doodles which  can be used to make an automatic diagnosis. The anterior segment links enface and side views to document anterior chamber pathology, in this case, thinning of the cornea.</p>
         </div>
@@ -256,7 +253,7 @@ title:  "A look at OpenEyes"
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/r-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-eyedraw-lg.jpg" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-eyedraw-lg.jpg" alt=""></a>
         <div class="card-body">
           <p class="card-text">OpenEyes has over 150 doodles and these can be used to describe complex pathologies.  In this example the patient have multiple retinal pathologies and has had extensive laser photocoagulation on the right. All doodles are selected with a single mouse click. </p>
         </div>
@@ -281,7 +278,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-popups-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-popups-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">We have developed a novel method for the entry of data which reduced the need to execute mouse clicks by up to 50% In all examination events you will see green buttons- selecting thiese in each element allows the entry of data from a selection panel of options. In this example from the history element-you can select from a range of customisable text snippets.</p>
+          <p class="card-text">We have developed a novel method for the entry of data which reduces the number of  mouse clicks to enter information by up to 50%. In  the majority of examination elements you will see green buttons (popup buttons)- clicking one of these button brings up a panel from which data can be selected with a further click.  In this example from the history element-you can select from a range of customisable text snippets.</p>
         </div>
       </div>
     </div>
@@ -289,7 +286,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-popups-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-popups-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">We have also minimised the need to move the mouse on the screen. For example in the recording of intraocular pressure we list 2 number columns- this considerably speeds number entry by removing the need to scroll number lists.</p>
+          <p class="card-text">We have also minimised the need to move the mouse on the screen. For example in the recording of intraocular pressure we list 2 number columns- this considerably speeds number entry by removing the need to scroll long lists of numbers.</p>
         </div>
       </div>
     </div>
@@ -310,7 +307,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-operation-notes-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-operation-notes-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">The operation notes supports the rapid entry of information for a range of operations. Many field can be prepopulated and for cataract surgery the IOL selection can be pulled from the biometry event</p>
+          <p class="card-text">The operation notes supports the rapid entry of information for a range of operations. Many fields are pre-populated- for cataract surgery the IOL biometry details and IOL selection are pulled  from the biometry event.</p>
         </div>
       </div>
     </div>
@@ -318,7 +315,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-operation-notes-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-operation-notes-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">The eyedraw tools support the annotation of suture locations and peripheral iridotomies in a trabeculectomy.</p>
+          <p class="card-text">As with examination events, the operation notes are supported by the eyedraw graphical tools. These allow, for example,  the annotation of suture locations and peripheral iridotomies in a trabeculectomy. </p>
         </div>
       </div>
     </div>
