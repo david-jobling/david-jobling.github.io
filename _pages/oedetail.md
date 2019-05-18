@@ -493,13 +493,12 @@ title:  "A look at OpenEyes"
 
 
 <!-- 12. Dashboard Container --> 
-<section id="dashboard" style="background-color:#fff" >
+<section id="oescape" style="background-color:#fff" >
 <div class="container">
 
   
   <center><h2 class="mb-4">Dashboard<br /><small>OEScape</small></h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
 
 
   <div class="row">
@@ -530,6 +529,7 @@ title:  "A look at OpenEyes"
 </section>
 <!-- /.container -->
 </section>
+
 <!--
 <section>
       <div class="container">
