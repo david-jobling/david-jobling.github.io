@@ -521,7 +521,7 @@ title:  "A look at OpenEyes"
 <div class="container">
 
   
-  <center><h2 class="mb-4">OEScape<br /><small>Summary Board</small></h2>
+  <center><h2 class="mb-4">OEscape<br /><small>Specialty specific summaries one page</small></h2>
        <hr class="my-4"></center>
 
 
