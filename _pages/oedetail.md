@@ -133,6 +133,15 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
+          <div class="col-sm-3" style="padding-bottom: 20px">
+      <div class="card h-100">
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#colour-themes" class="feature">Colour Themes</a>
+          </h4>
+         </div>
+      </div>
+      </div>
       <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
@@ -151,17 +160,7 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
-
-      <div class="col-sm-3" style="padding-bottom: 20px">
-      <div class="card h-100">
-        <div class="card-body">
-          <h4 class="card-title">
-            <a href="#colour-themes" class="feature">Colour Themes</a>
-          </h4>
-         </div>
-      </div>
-      </div>
-
+ 
     <!--<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
       <div class="card h-100">
         <div class="card-body">
