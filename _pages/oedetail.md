@@ -145,11 +145,12 @@ title:  "A look at OpenEyes"
     </section>
 
 <!-- 1. Work lists Container --> 
+<section id="portfolio">
 <section id="work-lists" style="background-color:#a9b9b2;">
 <div class="container">
 
   
-  <center><h2 class="mb-4">Work Lists</h2>
+  <center><h2 class="mb-4">Worklists</h2>
        <hr class="my-4"></center>
                   <p class="mb-0">
                   When you start OpenEyes you will see a dashboard view of your clinic. Using configurable widgets you will be able to see patients in your clinic work list and track their progress in the clinic. The dashboard also shows the messaging feature whereby patient records can be tagged with notes advising on clinical state or future actions. These messages are embedded in the patient record and support clinicians to clinician communication to ensure that patients requiring urgent attention can be flagged.</p><br />
@@ -158,23 +159,17 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-worklists-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-worklists-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+           <p class="card-text">When you first log into OpenEyes you will see a list of messages from other clinicians. Messaging is a popular feature in open eyes allowing communication about a single patient with the comments stored in the patient record. It works like email but is secure and linked to the patient history.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-worklists-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-worklists-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">OpenEyes will important clinic worklists from your PAS system. This allows direct patient selection and allows you to see when a patient has arrived in clinic</p>
         </div>
       </div>
     </div>
@@ -185,33 +180,25 @@ title:  "A look at OpenEyes"
 
 
 <!-- 2. Patient Overview Container -->
-<section id="eyedraw" style="background-color:#fff">
-<div class="container">
+<section id="portfolio" style="background-color:#fff">
+<div class="container" id="patient-overview">
   
   <center><h2 class="mb-4">Patient Overview<br /></h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
-
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-patientoverview-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-patientoverview-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">When a patient is selected from a worklist or patient search- the first view in the patient overview. This summarises medications, past treatments, diagnoses and management plans- all in one place.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+         <a class="portfolio-box" href="/img/features/fullsize/r-patientoverview-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-patientoverview-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">A similar patient summary is always avaliable as a popup from the patient name banner- this can be viewed in any event so that you are aware of all relevant patient data.</p>
         </div>
       </div>
     </div>
@@ -227,29 +214,21 @@ title:  "A look at OpenEyes"
   
   <center><h2 class="mb-4">Examination Event</h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT </p><br />
-
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-examination-event-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-examination-event-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">The examination event is one of many different events that can be used to document a patient examination, investigation or procedure. It can be customised by the selection of one of many elements that are displayed on the left hand side of the screen.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-examination-event-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-examination-event-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">When eyedraw features are included and saved, the view mode of the examination event is compact and highly informative, allowing a concise summary of an examination.</p>
         </div>
       </div>
     </div>
@@ -269,23 +248,17 @@ title:  "A look at OpenEyes"
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-eyedraw-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">OpenEyes provides a rich graphic set of tools (Eyedraw) to document the appearance of the eye. These serve as visual metaphors for the eye examination.  The drawing objects are called doodles which  can be used to make an automatic diagnosis. The anterior segment links enface and side views to document anterior chamber pathology, in this case, thinning of the cornea.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-eyedraw-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">OpenEyes has over 150 doodles and these can be used to describe complex pathologies.  In this example the patient have multiple retinal pathologies and has had extensive laser photocoagulation on the right. All doodles are selected with a single mouse click. </p>
         </div>
       </div>
     </div>
@@ -294,36 +267,29 @@ title:  "A look at OpenEyes"
 </section>
 <!-- /.container -->
 
-<!-- 5. Data and Audit Container --> 
+<!-- 5. Popup Container --> 
 <section id="popups" style="background-color:#a9b9b2">
 <div class="container">
 
   
-  <center><h2 class="mb-4">Popups<br /></h2>
-       <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
+  <center><h2 class="mb-4">Popup Data Entry<br /></h2>
+       <hr class="my-4"></center><br />
 
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-popups-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-popups-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">We have developed a novel method for the entry of data which reduced the need to execute mouse clicks by up to 50% In all examination events you will see green buttons- selecting thiese in each element allows the entry of data from a selection panel of options. In this example from the history element-you can select from a range of customisable text snippets.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-popups-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-popups-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">We have also minimised the need to move the mouse on the screen. For example in the recording of intraocular pressure we list 2 number columns- this considerably speeds number entry by removing the need to scroll number lists.</p>
         </div>
       </div>
     </div>
@@ -337,29 +303,22 @@ title:  "A look at OpenEyes"
 <div class="container">
   
   <center><h2 class="mb-4">Operation Notes<br /></h2>
-       <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
+       <hr class="my-4"></center>         <br />
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-operation-notes-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-operation-notes-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">The operation notes supports the rapid entry of information for a range of operations. Many field can be prepopulated and for cataract surgery the IOL selection can be pulled from the biometry event</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-operation-notes-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-operation-notes-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">The eyedraw tools support the annotation of suture locations and peripheral iridotomies in a trabeculectomy.</p>
         </div>
       </div>
     </div>
@@ -375,29 +334,21 @@ title:  "A look at OpenEyes"
   
   <center><h2 class="mb-4">Prescribing<br /></h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
-
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-prescribing-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-prescribing-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">OpenEyes supports prescribing and the maintenance of an agreed formulary. Medication combinations can be specified to speed prescription.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-prescribing-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-prescribing-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">Prescribed medication can be viewed in summary form in the patient summary popup</p>
         </div>
       </div>
     </div>
@@ -411,9 +362,8 @@ title:  "A look at OpenEyes"
 <div class="container">
 
   
-  <center><h2 class="mb-4">Prescribing<br /></h2>
-       <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
+  <center><h2 class="mb-4">Correspondence<br /></h2>
+       <hr class="my-4"></center><br />
 
 
   <div class="row">
@@ -597,7 +547,7 @@ title:  "A look at OpenEyes"
 </div>
 </section>
 <!-- /.container -->
-
+</section>
 <!--
 <section>
       <div class="container">
