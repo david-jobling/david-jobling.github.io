@@ -133,6 +133,15 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
+      <div class="col-sm-3" style="padding-bottom: 20px">
+      <div class="card h-100">
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#colour-themes" class="js-scroll-trigger feature">Colour Themes</a>
+          </h4>
+         </div>
+      </div>
+      </div>
     <!--<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
       <div class="card h-100">
         <div class="card-body">
@@ -551,11 +560,11 @@ title:  "A look at OpenEyes"
 <!-- /.container -->
 
 <!-- 14. Colour Schemes Containers --> 
-<section id="colour-schemes" style="background-color:#fff" >
+<section id="colour-themes" style="background-color:#fff" >
 <div class="container">
 
   
-  <center><h2 class="mb-4">Colour Schemes<br /></h2>
+  <center><h2 class="mb-4">Colour Themes<br /></h2>
        <hr class="my-4"></center>
 
 
@@ -572,7 +581,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-colour-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-colour-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">Or as grey mode. The choice is yours and will be fixed to your user settings. The change is just a click and you can flip between theme during an examination.</p>
+          <p class="card-text">Or as grey mode. The choice is yours and will be fixed to your user settings. The change is just a click and you can flip between themes during an examination.</p>
         </div>
       </div>
     </div>
