@@ -124,6 +124,15 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
+               <div class="col-sm-3" style="padding-bottom: 20px">
+      <div class="card h-100">
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#analytics-rtt" class="js-scroll-trigger feature">Analytics RTT</a>
+          </h4>
+         </div>
+      </div>
+      </div>
     <!--<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
       <div class="card h-100">
         <div class="card-body">
@@ -509,6 +518,70 @@ title:  "A look at OpenEyes"
 </div>
 </section>
 <!-- /.container -->
+
+<!-- 13. Analytics RTT Container --> 
+<section id="analytics-rtt" style="background-color:#a9b9b2" >
+<div class="container">
+
+  
+  <center><h2 class="mb-4">Analytics<br /><small>RTT Clinic Monitoring</small></h2>
+       <hr class="my-4"></center>
+
+
+  <div class="row">
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/l-analytics-rtt-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-analytics-rtt-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">OpenEyes now supports real time analysis of patient waiting times - either as new of follow up patients. This allows you to pick up those patient who are lost to follow up or past their appointment dates.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/r-analytics-rtt-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-analytics-rtt-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">You can click on each bar in the histogram to see the underlying patients and review their clinical status. If you click on any of the patient in the drill down - you can then see their overview summary and clinical history. Super fast.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- /.container -->
+
+<!-- 14. Colour Schemes Containers --> 
+<section id="colour-schemes" style="background-color:#fff" >
+<div class="container">
+
+  
+  <center><h2 class="mb-4">Colour Schemes<br /></h2>
+       <hr class="my-4"></center>
+
+
+  <div class="row">
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/l-colour-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-colour-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">Using an EMR is quite different from entering the audit data a few hours a week. We realised that the view has to be comfortable and match the light levels in the clinic. That is why we have change the colour palette for OE3- the dark mode is commonly used in environments similar to eye clinics and we have realised that there is a good reason for this. However we also know that this is novel if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment OE3 provide a them choice- as standard dark mode.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/r-colour-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-colour-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">Or as grey mode. The choice is yours and will be fixed to your user settings. The change is just a click and you can flip between theme during an examination.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- /.container -->
+
+
 </section>
 
 <!--
