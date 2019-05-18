@@ -398,7 +398,6 @@ title:  "A look at OpenEyes"
   
   <center><h2 class="mb-4">The Hotlist<br /></h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
 
 
   <div class="row">
