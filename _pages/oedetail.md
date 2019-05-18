@@ -460,29 +460,22 @@ title:  "A look at OpenEyes"
   
   <center><h2 class="mb-4">Lightning Viewer<br /></h2>
        <hr class="my-4"></center>
-                  <p class="mb-0">CONTENT</p><br />
 
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/l-lightning-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-lightning-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project One</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">OpenEyes support the viewing of documents at video refresh rates using the Lightning viewer. This allows you to view a stack of OCT images as fast as you might flick through a stack of cards. The lightning viewer supports this feature for all documents in OpenEyes. Any document in PDF format can be viewed in this way.</p>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a class="portfolio-box" href="/img/features/fullsize/r-lightning-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-lightning-lg.jpg" alt=""></a>
         <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Two</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">For the NOD analysis  you can also see your complication provide and drill down on patients in any particular category. OpenEyes will also indicate the level of NOD audit completion. Data can then be submitted to NOD directly from OpenEyes.</p>
         </div>
       </div>
     </div>
