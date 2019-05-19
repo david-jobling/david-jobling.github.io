@@ -283,7 +283,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-eyedraw-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-eyedraw-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes provides a rich graphic set of tools (Eyedraw) to document the appearance of the eye. These serve as visual metaphors for the eye examination. The drawing objects are called doodles which can be used to make an automatic diagnosis. The anterior segment eyedraw links enface and side views to document anterior chamber pathology, in this case, thinning of the cornea.</p>
+          <p class="card-text">OpenEyes provides a rich graphical set of tools (Eyedraw) to document the appearance of the eye. These serve as visual metaphors for the eye examination. The drawing objects are called doodles which can be used to make an automatic diagnosis. The anterior segment eyedraw links enface and side views to document anterior chamber pathology, in this case, thinning of the cornea.</p>
         </div>
       </div>
     </div>
@@ -500,7 +500,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-oescape-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-oescape-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes now comes with a summary time related view for a patient called OEscape. This will plot subspecialty relevant data over time for a selected patient. For glaucoma this would, for example be visual acuity and IOP. For Medical retina this would be visual acuity and central retinal thickness- with an indication of when intravitreal injections have been made. These views are scaleable to match the monitor size.</p>
+          <p class="card-text">OpenEyes now comes with OEscape which provides  a summary time related plot  for any patient. The plots display subspecialty specific data.  For glaucoma this would, for example, be visual acuity and IOP. For Medical retina, this would be visual acuity and central retinal thickness- with an indication of when intravitreal injections have been made. These views are scaleable to match the monitor size.</p>
         </div>
       </div>
     </div>
@@ -508,7 +508,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-oescape-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-oescape-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">The OEscape plots can be linked to the display of imaging or visual field data. For example, in medical retina- as the cursor is moved along the visual acuity/ retinal thickness timeline, the OCT scan that matches a selected time point is displayed. The OCT scene refresh rates easily matches the speed of the cursor movement to provide both you and your patient a dynamic view of treatment progress.</p>
+          <p class="card-text">The OEscape plots can be linked to the display of imaging or visual field data. For example, in medical retina- as the cursor is moved along the visual acuity/ retinal thickness timeline, the OCT scan that matches a selected time point is displayed. The OCT scan refresh rates easily matches the speed of the cursor movement to provide both you and your patient a dynamic view of treatment progress.</p>
         </div>
       </div>
     </div>
