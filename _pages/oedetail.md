@@ -97,15 +97,6 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
-   <div class="col-sm-3" style="padding-bottom: 20px">
-      <div class="card h-100">
-        <div class="card-body">
-          <h4 class="card-title">
-            <a href="#audit" class="feature">Analytics-Audit</a>
-          </h4>
-         </div>
-      </div>
-    </div>
        <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
@@ -124,6 +115,15 @@ title:  "A look at OpenEyes"
          </div>
       </div>
       </div>
+                <div class="col-sm-3" style="padding-bottom: 20px">
+      <div class="card h-100">
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#audit" class="feature">Analytics-Audit</a>
+          </h4>
+         </div>
+      </div>
+    </div>
                <div class="col-sm-3" style="padding-bottom: 20px">
       <div class="card h-100">
         <div class="card-body">
@@ -405,7 +405,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-correspondence-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-correspondence-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes has a complete correspondence package that will pull information from a recent event and auto-populate templated letter. You can customise the templates for your clinic or service. The latter format is PDF allowing easy storage and viewing in other hospital based archives. </p>
+          <p class="card-text">OpenEyes has a complete correspondence package that will pull information from a recent event and auto-populate a templated letter. You can customise the templates for your clinic or service. The letter format is PDF,  allowing easy storage and viewing in other hospital based archives.</p>
         </div>
       </div>
     </div>
@@ -436,7 +436,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
        <a class="portfolio-box" href="/img/features/fullsize/l-hotlist-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-hotlist-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">In a busy clinic it is all too easy to lose track of patients- particularly when patient are being dilated and sent for further investigations. The hotlist address this issue by keeping a list that can be viewed at any time of patient who are  still under examination or having a procedure. The list is user specific and allows you to switch rapidly between patients.</p>
+          <p class="card-text">In a busy clinic it is all too easy to lose track of patients- particularly when they are being dilated and sent for further investigations. The hotlist address this issue by keeping a list that can be viewed at any time of patients who are still under examination or having a procedure. The list is user specific and allows you to switch rapidly between patients.</p>
         </div>
       </div>
     </div>
@@ -453,35 +453,6 @@ title:  "A look at OpenEyes"
 </section>
 <!-- /.container -->
 
-<!-- 10. Analytics-Audit Container --> 
-<section id="audit" style="background-color:#fff;" >
-<div class="container">
-
-  
-  <center><h2 class="mb-4">Analytics-Audit<br /></h2>
-       <hr class="my-4"></center>
-
-  <div class="row">
-    <div class="col-lg-6 mb-4">
-      <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/l-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-audit-lg.jpg" alt=""></a>
-        <div class="card-body">
-                  <p class="card-text">OpenEyes is built to provide real time data-audit is not a term that is commonly  used with modern EMR platforms to monitor day to day activity. We really need to know what is happening to our patients and our services in real time. OpenEyes comes with an analytics package to support data collection and display on large numbers of patients. OpenEyes fully support the NOD audit and generates a  NOD compliant analysis of risks and complications associated with cataract surgery.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-6 mb-4">
-      <div class="card h-100">
-        <a class="portfolio-box" href="/img/features/fullsize/r-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-audit-lg.jpg" alt=""></a>
-        <div class="card-body">
-          <p class="card-text">For the NOD analysis  you can also see your complication provide and drill down on patients in any particular category. OpenEyes will also indicate the level of NOD audit completion. Data can then be submitted to NOD directly from OpenEyes.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<!-- /.container -->
 
 
 <!-- 11. Lightning Viewer Container --> 
@@ -538,7 +509,37 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/r-oescape-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-oescape-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">The OEscape plots can be linked to the display of imaging or visual field data. For example in medical retina- as the cursor is moved along the visual acuity/ retinal thickness timeline, the OCT scan that matches as selected time point is displayed.</p>
+          <p class="card-text">The OEscape plots can be linked to the display of imaging or visual field data. For example, in medical retina- as the cursor is moved along the visual acuity/ retinal thickness timeline, the OCT scan that matches a selected time point is displayed. The OCT scene refresh rates easily matches the speed of the cursor movement to provide both you and your patient a dynamic view of treatment progress.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- /.container -->
+
+<!-- 10. Analytics-Audit Container --> 
+<section id="audit" style="background-color:#fff;" >
+<div class="container">
+
+  
+  <center><h2 class="mb-4">Analytics-Audit<br /></h2>
+       <hr class="my-4"></center>
+
+  <div class="row">
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/l-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-audit-lg.jpg" alt=""></a>
+        <div class="card-body">
+                  <p class="card-text">OpenEyes is built to provide real time data -  audit is not a term that is commonly used with modern EPR platforms to monitor day to day activity. We really need to know what is happening to our patients and our services as it happen. OpenEyes comes with an analytics package to support data collection and display on large numbers of patients. OpenEyes fully supports the NOD audit and generates a NOD compliant analysis of risks and complications associated with cataract surgery.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a class="portfolio-box" href="/img/features/fullsize/r-audit-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/r-audit-lg.jpg" alt=""></a>
+        <div class="card-body">
+          <p class="card-text">For the NOD analysis you can also see your complication profile and drill down on patients in any particular category. OpenEyes will also indicate the level of NOD audit completion. Data can then be submitted to the NOD directly from OpenEyes.</p>
         </div>
       </div>
     </div>
@@ -561,7 +562,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-analytics-rtt-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-analytics-rtt-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes now supports real time analysis of patient waiting times - either as new of follow up patients. This allows you to pick up those patient who are lost to follow up or past their appointment dates.</p>
+          <p class="card-text">OpenEyes now supports real time analysis of patient waiting times - either as new or follow up patients. This allows you to spot patients who are lost to follow up or past their appointment dates.</p>
         </div>
       </div>
     </div>
@@ -592,7 +593,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-colour-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-colour-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">Using an EPR is quite different from entering audit data a few hours a week. We realised that the view has to be comfortable and match the light levels in the clinic. That is why we have changed the colour palette for OE3 by adopting a darker overall appearance  similar to the dark mode that is better matched to the ambient light levels in most eye clinics. However we also know that this is novel if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment, OE3 provide a theme choice- as standard dark mode.</p>
+          <p class="card-text">Using an EPR is quite different from entering audit data a few hours a week. We realise that the view has to be comfortable and match the light levels in the clinic. That is why we have changed the colour palette for OE3 to a  darker overall appearance  that is better matched to the ambient light levels in most eye clinics. However, we appreciate that this could be disconcerting  if you are coming from a Windows environment where the interfaces are generally light grey. To help in the adjustment, OE3 provide a theme choice- as standard dark mode. </p>
         </div>
       </div>
     </div>
@@ -623,7 +624,7 @@ title:  "A look at OpenEyes"
       <div class="card h-100">
         <a class="portfolio-box" href="/img/features/fullsize/l-whiteboard-lg.jpg"><img class="card-img-top" src="/img/features/fullsize/l-whiteboard-lg.jpg" alt=""></a>
         <div class="card-body">
-          <p class="card-text">OpenEyes will display key data for a selected operation on a whiteboard- this is usually a large digital display in the operating theatre that can be seen by all staff. It supports the activity around the WHO checks and ensures that everyone knows the case, side, procedure and for cataract surgery the lens type and power. It also displays systemic and ocular risk factors relevant to the case.</p>
+          <p class="card-text">OpenEyes will display key data for a selected operation on a whiteboard- this is usually a large digital display in the operating theatre that can be seen by all staff. It supports activity around the WHO checks and ensures that everyone knows the case, side, procedure and, for cataract surgery, the lens type and power. It also displays systemic and ocular risk factors relevant to the case.</p>
         </div>
       </div>
     </div>
