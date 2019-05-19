@@ -190,7 +190,7 @@ title:  "A look at OpenEyes"
   <center><h2 class="mb-4">Worklists</h2>
        <hr class="my-4"></center>
                   <p class="mb-0">
-                  When you start OpenEyes you will see a dashboard view of your clinic. Using configurable widgets you will be able to see patients in your clinic work list and track their progress in the clinic. The dashboard also shows the messaging feature whereby patient records can be tagged with notes advising on clinical state or future actions. These messages are embedded in the patient record and support clinicians to clinician communication to ensure that patients requiring urgent attention can be flagged.</p><br />
+                  When you start OpenEyes you will see a dashboard view of your clinic. Using configurable widgets you will be able to see patients in your clinic work list and track their progress in the clinic. The dashboard also shows the messaging feature whereby patient records can be tagged with notes advising on clinical state or future actions. These messages are embedded in the patient record and support clinician to clinician communication to ensure that patients requiring urgent attention can be flagged.</p><br />
 
 
   <div class="row">
